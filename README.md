@@ -5,8 +5,8 @@
 
 
 ### William Miller JR.  
--  I’m currently working on Frontend Mentor QR Code component challenge. 
- https://github.com/bijiyiqi2017/bijiyiqi2017.github.io.git    🐯  
+-  I’m currently just finshed the Frontend Mentor QR Code component challenge. 
+ [https://github.com/bijiyiqi2017/bijiyiqi2017.github.io.git](https://www.frontendmentor.io/home/my-challenges?tab=completed)    🐯  
   
 
 -   I’m currently learning git, html, css, javascript, and json.  
