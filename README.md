@@ -1,19 +1,21 @@
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--sqYA9opA--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/2kjznv0rzlcdyhgerdgw.gif
-)  
+
   
 
 
 
 ### William Miller JR.  
--  I’m currently just finshed the Frontend Mentor QR Code component challenge. 
- [https://github.com/bijiyiqi2017/bijiyiqi2017.github.io.git](https://www.frontendmentor.io/home/my-challenges?tab=completed)    🐯  
+
+ 👨‍💻 Crafting digital masterpieces, one line at a time. I'm William D. Miller Jr., an avid explorer in the realm of fullstack development. 🌟 With a passion for turning ideas into elegant solutions, I'm on a relentless quest to blend creativity with code. 🎨 When I'm not immersed in the art of coding, you'll find me refining my oratory skills as a dedicated member of the Wuhan No.1 Toastmasters club for over 3 years. Let's embark on this journey together and create something extraordinary! #CodeIsArt 🚀
+
+
+
+
+
+
+
+
   
 
--   I’m currently learning git, html, css, javascript, and json.  
-  
-
-- I love to learn as well as solve problems.   
-  
 
 <br/>  
 
