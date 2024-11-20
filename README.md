@@ -3,7 +3,7 @@
 
 
 
-# William Miller JR.  
+# William Miller Jr.  
 
  👨‍💻 Crafting digital masterpieces, one line at a time. I'm William D. Miller Jr., an avid explorer in the realm of fullstack development. 🌟 With a passion for turning ideas into elegant solutions, I'm on a relentless quest to blend creativity with code. 🎨 When I'm not immersed in the art of coding, you'll find me refining my oratory skills as a dedicated member of the Wuhan No.1 Toastmasters club for over 3 years. Let's embark on this journey together and create something extraordinary! #CodeIsArt 🚀
 
@@ -11,7 +11,7 @@
 
 
 
-
+<a href="https://app.daily.dev/logicloomer24"><img src="https://api.daily.dev/devcards/v2/J3c4QEx5fMzQCOIRb0fFz.png?type=default&r=nc1" width="356" alt="William Miller Jr's Dev Card"/></a>
 
 
   
