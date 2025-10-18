@@ -1,96 +1,71 @@
-# 👋 Hi, I'm William D. Miller Jr.
+# 👋 Hi, I'm **William D. Miller Jr.**
 
-🚀 Full-Stack Developer | 🎙️ Toastmasters Speaker | 🎯 Lifelong Learner
+🚀 **Full-Stack Developer** | 🎙️ **Toastmasters Speaker** | 🧠 **Lifelong Learner**
 
-Welcome! I’m a passionate self-taught developer blending creativity and code. Currently diving deep into **The Odin Project** and collaborating on engaging browser-based games and tools. My goal? Crafting user-focused, accessible digital experiences that make a difference.
+Welcome! I’m a self-taught developer passionate about blending **creativity and clarity** — in both code and communication.  
+I’m currently deep-diving into **The Odin Project**, **Python projects**, and building **browser-based games** that encourage learning through play.  
 
----
-
-## 🔧 Tech Stack (Learning + Using)
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Tools:** Git & GitHub, Figma
-- **Frameworks (Next Up):** React, Node.js, Express, Django, Flask
-- **Practices:** Responsive Design, Version Control, Wireframing, Clean Code
+When I’m not coding, I’m improving my public speaking skills at **Toastmasters International**, reading about **technology and creativity**, or out running — clearing my mind for the next idea.
 
 ---
 
-## 🚧 Learning & Interests
-- **BEM (Block Element Modifier):** Improving CSS structure  
-- **NeoVim:** Mastering keyboard-driven editing  
-- **Linux & Bash:** Deepening command-line proficiency  
-- **MongoDB:** Exploring NoSQL databases  
-- **Docker:** Containerization for reproducible environments  
-- **TypeScript:** Adding static typing to JavaScript  
+## 🛠️ Tech & Tools
+**Languages:** HTML • CSS • JavaScript • Python  
+**Core Tools:** Git & GitHub • Figma • VS Code • Linux (WSL2)  
+**Next Up:** React • Node.js • Express • Django • TypeScript  
+**Practices:** Responsive Design • Clean Code • Version Control • Accessibility  
 
 ---
 
-## 🌟 Current Projects
-- **🕹️ Web Scramble Game:** A fun, collaborative word game in the browser  
-- **📚 The Odin Project:** Building full-stack skills through real-world projects  
-- **💡 Mini Tools & Experiments:** From color pickers to task trackers
+## 📚 Currently Learning
+- 🧩 **The Odin Project:** Strengthening JavaScript foundations  
+- 🐧 **Linux + Bash:** Streamlining workflows  
+- ⚡ **NeoVim:** Efficient keyboard-based editing  
 
 ---
 
-## 🤝 Let’s Collaborate!
-I’m always open to:
-- 🌐 Building web apps and tools  
-- 🎯 Contributing to open source  
-- 💬 Joining dev teams or hackathons  
-- 📚 Learning together and sharing knowledge  
+## 🧠 Featured Projects
+- **🕹️ Web Scramble Game** – collaborative browser word game  
+- **🐍 Python Projects** – from logic puzzles to interactive CLI tools  
+- **🐯 TigerByte** – a toy programming language exploring parsing, logic, and compiler fundamentals  
 
-Got an exciting idea? Let’s connect and build something awesome.
+> Explore more at [github.com/bijiyiqi2017](https://github.com/bijiyiqi2017?tab=repositories)
 
 ---
 
-## 📬 Connect with Me
+## 🎙️ Beyond Code
+- **Toastmasters:** Practicing storytelling and leadership through weekly meetings  
+- **Running:** Building endurance and consistency — one stride at a time  
+- **Reading:** Daily learning from [freeCodeCamp News](https://www.freecodecamp.org/news/), [Daily.dev](https://daily.dev), and books on **leadership, running, and programming**  
 
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mbelements27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DayDayUp22) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/@Dalaohu2017) 
+> 💬 “Code sharpens the mind. Speech connects the world.”
 
 ---
 
-> “Code is art. Let’s create something remarkable together.”
+## 🤝 Let’s Connect
+- 🌐 Collaborate on web projects or open-source tools  
+- 🎯 Join coding or communication communities  
+- 💬 Share knowledge and learning habits  
 
-  
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mbelements27)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@DayDayUp22)
+[![Codepen](https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white)](https://codepen.io/@Dalaohu2017)
 
-
-
-
-
-
-
-
+---
 
 <a href="https://app.daily.dev/logicloomer24"><img src="https://api.daily.dev/devcards/v2/J3c4QEx5fMzQCOIRb0fFz.png?type=default&r=nc1" width="356" alt="William Miller Jr's Dev Card"/></a>
 
+---
 
-  
-
-
-<br/>  
-
- 
- 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bijiyiqi2017&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bijiyiqi2017&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bijiyiqi2017&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bijiyiqi2017&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bijiyiqi2017&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 📊 GitHub Insights
+![](https://github-readme-stats.vercel.app/api?username=bijiyiqi2017&theme=vision-friendly-dark&hide_border=false&include_all_commits=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bijiyiqi2017&theme=vision-friendly-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bijiyiqi2017&theme=vision-friendly-dark&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bijiyiqi2017&icon=2&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 Achievements & Motivation
+![](https://github-profile-trophy.vercel.app/?username=bijiyiqi2017&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-
-
+> “Code is art — and communication gives it purpose.”
