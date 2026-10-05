@@ -64,7 +64,7 @@ When I’m not coding, I’m improving my public speaking skills at **Toastmaste
 
 ---
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bijiyiqi2017)](https://github.com/stats-organization/github-stats-extended)
 
 ## 🏆 Achievements & Motivation
 ![](https://github-profile-trophy.vercel.app/?username=bijiyiqi2017&theme=radical)
