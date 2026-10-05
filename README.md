@@ -58,16 +58,17 @@ When I’m not coding, I’m improving my public speaking skills at **Toastmaste
 ---
 
 ## 📊 GitHub Insights
-![](https://github-readme-stats.vercel.app/api?username=bijiyiqi2017&theme=vision-friendly-dark&hide_border=false&include_all_commits=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=bijiyiqi2017&theme=vision-friendly-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bijiyiqi2017&theme=vision-friendly-dark&layout=compact)
+
+![Bill's GitHub stats](https://github-stats-extended.vercel.app/api?username=bijiyiqi2017&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bijiyiqi2017&theme=vision-friendly-dark&hide_border=true)
+
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=bijiyiqi2017&theme=vision-friendly-dark&layout=compact&hide_border=true)
 
 ---
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=bijiyiqi2017)](https://github.com/stats-organization/github-stats-extended)
-
 ## 🏆 Achievements & Motivation
-![](https://github-profile-trophy.vercel.app/?username=bijiyiqi2017&theme=radical)
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 > “Code is art — and communication gives it purpose.”
