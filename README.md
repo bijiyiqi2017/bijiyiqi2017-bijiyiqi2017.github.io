@@ -61,7 +61,7 @@ When I’m not coding, I’m improving my public speaking skills at **Toastmaste
 
 ![Bill's GitHub stats](https://github-stats-extended.vercel.app/api?username=bijiyiqi2017&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bijiyiqi2017&theme=vision-friendly-dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bijiyiqi2017&theme=vision-friendly-dark&hide_border=true)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=bijiyiqi2017&theme=vision-friendly-dark&layout=compact&hide_border=true)
 
